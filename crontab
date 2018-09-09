@@ -1,0 +1,2 @@
+crontab -e
+@reboot /usr/bin/python /home/pi/pushover/Push_Restart.py
